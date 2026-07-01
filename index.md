@@ -78,9 +78,21 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Raspberry Pi Kit | What the item is used for | $147.69 | <a href="https://a.co/d/0jik80OL"> Link </a> |
+| Robot Chassis | What the item is used for | $18.99 | <a href="https://a.co/d/0hK4KdY5"> Link </a> |
+| Screwdriver Kit | What the item is used for | $5.94 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
+| Mouse and Keyboard | What the item is used for | $16.99 | <a href="https://a.co/d/0c6Hub7h"> Link </a> |
+| Micro HDMI to HDMI | What the item is used for | $6.18 | <a href="https://a.co/d/0eX9Ruz1"> Link </a> |
+| Ultrasonic Sensor | What the item is used for | $9.99 | <a href="https://a.co/d/05mke27o"> Link </a> |
+| H Bridges | What the item is used for | $8.99 | <a href="https://a.co/d/0cp7M7iE"> Link </a> |
+| Pi Cam | What the item is used for | $12.86 | <a href="https://a.co/d/02HYUrgb"> Link </a> |
+| Electronics Kit | What the item is used for | $11.98 | <a href="https://a.co/d/0j4Kiv12"> Link </a> |
+| Motors | What the item is used for | $11.98 | <a href="https://a.co/d/0hOEAAFQ"> Link </a> |
+| DMM | What the item is used for | $9.99 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
+| Champion sports ball | What the item is used for | $16.73 | <a href="https://a.co/d/0c4ZAb5Z"> Link </a> |
+| AA batteries | What the item is used for | $18.74 | <a href="https://a.co/d/0caNpFDm"> Link </a> |
+| USB power bank & cable | What the item is used for | $16.19 | <a href="https://a.co/d/0iPC9IbX"> Link </a> |
+
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
