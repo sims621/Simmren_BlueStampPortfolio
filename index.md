@@ -78,9 +78,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Raspberry Pi Kit | What the item is used for | $147.69 | <a href="https://a.co/d/0jik80OL"> Link </a> |
-| Robot Chassis | What the item is used for | $18.99 | <a href="https://a.co/d/0hK4KdY5"> Link </a> |
-| Screwdriver Kit | What the item is used for | $5.94 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
+| Raspberry Pi Kit | The brain of the robot, stores compex programs | $147.69 | <a href="https://a.co/d/0jik80OL"> Link </a> |
+| Robot Chassis | Body of the robot | $18.99 | <a href="https://a.co/d/0hK4KdY5"> Link </a> |
+| Screwdriver Kit | Screwdriver with various heads that can be used for different purposes | $5.94 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
 | Mouse and Keyboard | What the item is used for | $16.99 | <a href="https://a.co/d/0c6Hub7h"> Link </a> |
 | Micro HDMI to HDMI | What the item is used for | $6.18 | <a href="https://a.co/d/0eX9Ruz1"> Link </a> |
 | Ultrasonic Sensor | What the item is used for | $9.99 | <a href="https://a.co/d/05mke27o"> Link </a> |
