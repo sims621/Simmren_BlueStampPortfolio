@@ -80,14 +80,14 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Raspberry Pi Kit | The brain of the robot, stores compex programs | $147.69 | <a href="https://a.co/d/0jik80OL"> Link </a> |
 | Robot Chassis | Body of the robot | $18.99 | <a href="https://a.co/d/0hK4KdY5"> Link </a> |
-| Screwdriver Kit | Screwdriver with various heads that can be used for different purposes | $5.94 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
-| Mouse and Keyboard | What the item is used for | $16.99 | <a href="https://a.co/d/0c6Hub7h"> Link </a> |
-| Micro HDMI to HDMI | What the item is used for | $6.18 | <a href="https://a.co/d/0eX9Ruz1"> Link </a> |
-| Ultrasonic Sensor | What the item is used for | $9.99 | <a href="https://a.co/d/05mke27o"> Link </a> |
-| H Bridges | What the item is used for | $8.99 | <a href="https://a.co/d/0cp7M7iE"> Link </a> |
-| Pi Cam | What the item is used for | $12.86 | <a href="https://a.co/d/02HYUrgb"> Link </a> |
-| Electronics Kit | What the item is used for | $11.98 | <a href="https://a.co/d/0j4Kiv12"> Link </a> |
-| Motors | What the item is used for | $11.98 | <a href="https://a.co/d/0hOEAAFQ"> Link </a> |
+| Screwdriver Kit | Screwdriver with many different heads| $5.94 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
+| Mouse and Keyboard | Helps remotely control the robot and navigate the interface | $16.99 | <a href="https://a.co/d/0c6Hub7h"> Link </a> |
+| Micro HDMI to HDMI | Connects Raspberry Pi to monitor | $6.18 | <a href="https://a.co/d/0eX9Ruz1"> Link </a> |
+| Ultrasonic Sensor | Allows the robot to not crash into walls | $9.99 | <a href="https://a.co/d/05mke27o"> Link </a> |
+| H Bridges | Connects the Raspberry Pi to the motors | $8.99 | <a href="https://a.co/d/0cp7M7iE"> Link </a> |
+| Pi Cam | Takes live camera feed and uses it to scan for the ball | $12.86 | <a href="https://a.co/d/02HYUrgb"> Link </a> |
+| Electronics Kit | Contains all of the wires and the breadboard | $11.98 | <a href="https://a.co/d/0j4Kiv12"> Link </a> |
+| Motors | Help the robot move around and operate based on the code | $11.98 | <a href="https://a.co/d/0hOEAAFQ"> Link </a> |
 | DMM | What the item is used for | $9.99 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
 | Champion sports ball | What the item is used for | $16.73 | <a href="https://a.co/d/0c4ZAb5Z"> Link </a> |
 | AA batteries | What the item is used for | $18.74 | <a href="https://a.co/d/0caNpFDm"> Link </a> |
