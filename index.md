@@ -23,7 +23,7 @@ Out of all the wonderful projects that I could have completed, I picked a ball-t
 
 ![Schematic 1](image.webp)
 
-![Schematic 2](image(1).webp)
+![Schematic 2](schematic.webp)
 
 # Code
 
