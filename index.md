@@ -208,10 +208,10 @@ GPIO.cleanup()
 | Pi Cam | Takes live camera feed and uses it to scan for the ball | $12.86 | <a href="https://a.co/d/02HYUrgb"> Link </a> |
 | Electronics Kit | Contains all of the wires and the breadboard | $11.98 | <a href="https://a.co/d/0j4Kiv12"> Link </a> |
 | Motors | Help the robot move around and operate based on the code | $11.98 | <a href="https://a.co/d/0hOEAAFQ"> Link </a> |
-| DMM | What the item is used for | $9.99 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
-| Champion sports ball | What the item is used for | $16.73 | <a href="https://a.co/d/0c4ZAb5Z"> Link </a> |
-| AA batteries | What the item is used for | $18.74 | <a href="https://a.co/d/0caNpFDm"> Link </a> |
-| USB power bank & cable | What the item is used for | $16.19 | <a href="https://a.co/d/0iPC9IbX"> Link </a> |
+| DMM | Debugs and tests values of components | $9.99 | <a href="https://a.co/d/0bqwxqBd/"> Link </a> |
+| Champion sports ball | Ball that the robot is following | $16.73 | <a href="https://a.co/d/0c4ZAb5Z"> Link </a> |
+| AA batteries | Used to power the robot | $18.74 | <a href="https://a.co/d/0caNpFDm"> Link </a> |
+| USB power bank & cable | Powers the robot when it is not connected to the wall | $16.19 | <a href="https://a.co/d/0iPC9IbX"> Link </a> |
 
 
 # Other Resources/Examples
