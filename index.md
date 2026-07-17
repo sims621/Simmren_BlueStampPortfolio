@@ -7,7 +7,6 @@ Out of all the wonderful projects that I could have completed, I picked a ball-t
 |:--:|:--:|:--:|:--:|
 | Simmren O | Centennial High School | Mechanical Engineering | Incoming Sophomore
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Robot Picture](IMG_20260717_153555.jpg)
   
