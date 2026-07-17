@@ -12,10 +12,14 @@ Out of all the wonderful projects that I could have completed, I picked a ball-t
   
 # Final Milestone
 
+For my final milestone, I built the robot chassis and completed all the wiring for the motors. I also initiated several tests and tweaked the code until my robot was functional. Finally, I made my modification by designing and 3D printing a case where I could organize all of the components efficiently on top of the robot base.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7E3q7lLxJA?si=4xoVzWWSj6-GcNTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 # First Milestone
+
+My first milestone consisted of me completing the wiring for my robot's sensors and setting up my Raspberry Pi on my computer and uploading all the code. Although I faced some issues with connecting the Raspberry Pi to my computer via SSH, I was finally able to connect it remotely by using a monitor. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fauM9rYn7co?si=fEdKp20YEWjZHdk7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
